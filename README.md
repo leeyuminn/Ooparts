@@ -1,1 +1,1 @@
-This is a project to create a game with Unity at HYU Ooparts. 
+This is a project by HYU Ooparts that creates games with Unity.
